@@ -1,0 +1,15 @@
+@font-face{
+    font-family: 'RobotoMono';
+    src: url('../fonts//RobotoMono-Thin.ttf')
+}
+
+*{
+    font-family: 'RobotoMono', 'monospace'
+}
+
+
+
+.bg-primary {
+    background-color: #0051aa !important;
+}
+
